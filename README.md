@@ -35,6 +35,7 @@ We built a real working product in real-time. The goal was to demonstrate how ra
 *   Integrating Large Language Models (LLMs) to automatically rewrite and optimize resume descriptions for specific job descriptions.
 *   Connecting the frontend, backend, and AI layer into a single, cohesive user experience.
 
+<img width="1909" height="1080" alt="Screenshot 2026-05-04 at 6 53 03 AM" src="https://github.com/user-attachments/assets/6ed13f01-430c-4c6e-a752-39d66fedc803" />
 
 ---
 
